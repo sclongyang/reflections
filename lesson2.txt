@@ -1,1 +1,1 @@
-easy_mode
+lesson3 + easy_mode
